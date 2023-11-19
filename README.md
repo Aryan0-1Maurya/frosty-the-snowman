@@ -4,7 +4,7 @@ Experience the magic of winter with Frosty the Snowman in this enchanting game! 
 
 ## Play the Game
 
-[Play Now](https://your-username.github.io/frosty-the-snowman/) 🕹️
+[Play Now](https://aryan0-1maurya.github.io/frosty-the-snowman/) 🕹️
 
 ## About the Game
 
